@@ -21,12 +21,14 @@ The included date table supports BS years 2000 through 2090 and Gregorian dates 
 
 ## Installation
 
-### Method 1: WordPress admin
+### Method 1: Download and upload the ZIP file
 
-1. Create a ZIP file containing the `gsnepalidate` plugin folder.
+1. Download the ready-to-install [`gsnepalidate.zip`](https://github.com/SumanKhdka/gs-nepali-date/raw/main/gsnepalidate.zip) file from this repository.
 2. In WordPress, open **Plugins > Add New > Upload Plugin**.
-3. Select the ZIP file and click **Install Now**.
-4. Activate **GS Nepali Date** from the Plugins screen.
+3. Select the downloaded ZIP file and click **Install Now**.
+4. Click **Activate Plugin**, or activate **GS Nepali Date** from the Plugins screen.
+
+The ZIP file is also available in the root of this GitHub repository. You do not need to extract it or create a new ZIP file before uploading it to WordPress.
 
 ### Method 2: Manual installation
 
